@@ -280,6 +280,7 @@ public class Modificacion extends Connections implements WindowListener, ActionL
 			// si devuelve "s", el dato es String, por lo tanto va entre comillas
 			// si devuelve "i", el dato es numérico, sin comillas
 			// si devuelve "n", el dato es AUTO_INCREMENT, es NULL
+			// si devuelve "id", la id no existe
 			int_str_error = form_correcter.detect_errors( data_in_tf, error_label, show_column_name );
 			if(!first_row[x].equals(data_in_tf)) {
 				if(int_str_error.equals("s")) sentencia += "UPDATE " + table_name + " SET " + sql_column_name + " = '" + data_in_tf + "' WHERE id" + table_column_name + " = " + tf_searchid.getText() + ";''";
