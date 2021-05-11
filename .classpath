@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/pycol/Desktop/Formación/ECLIPSE/Programacion/mysql-connector-java-8.0.23.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/pycol/Desktop/Formación/ECLIPSE/Programacion/iText/itext5-itextpdf-5.5.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pycol/Desktop/Formación/ECLIPSE/Programacion/iText/itext5-itextpdf-5.5.11-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pycol/Desktop/Formación/ECLIPSE/Programacion/iText/itext5-itextpdf-5.5.11-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pycol/Desktop/Formación/ECLIPSE/Programacion/iText/itext5-itext-pdfa-5.5.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pycol/Desktop/Formación/ECLIPSE/Programacion/iText/itext5-itext-pdfa-5.5.11-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pycol/Desktop/Formación/ECLIPSE/Programacion/iText/itext5-itext-pdfa-5.5.11-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pycol/Desktop/Formación/ECLIPSE/Programacion/iText/itext5-itext-xtra-5.5.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pycol/Desktop/Formación/ECLIPSE/Programacion/iText/itext5-itext-xtra-5.5.11-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pycol/Desktop/Formación/ECLIPSE/Programacion/iText/itext5-itext-xtra-5.5.11-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pycol/Desktop/Formación/ECLIPSE/Programacion/iText/itext5-xmlworker-5.5.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pycol/Desktop/Formación/ECLIPSE/Programacion/iText/itext5-xmlworker-5.5.11-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pycol/Desktop/Formación/ECLIPSE/Programacion/iText/itext5-xmlworker-5.5.11-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
